@@ -1,7 +1,5 @@
 package osu;
 
 public enum Direction {
-    LEFT,
-    RIGHT,
-    STREIGHT
+    LEFT, RIGHT, STRAIGHT
 }
